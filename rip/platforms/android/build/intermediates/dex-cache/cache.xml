@@ -1,2 +1,89 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
+        <dex dex="/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-9.6.1_ddb0c4c13b02d5128c5749619cd15fc29624d2a1.jar" />
+    </item>
+    <item
+        jar="/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="79f521967ad7f49b34748db89df02852c2b2f87b">
+        <dex dex="/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-9.6.1_443bd8bde928996f026fae59f68e4a75e84d1851.jar" />
+    </item>
+    <item
+        jar="/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_cc490df5566aff610f86a19652ac975b6818e2ee.jar" />
+    </item>
+    <item
+        jar="/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/pre-dexed/debug/com.android.volley-volley-1.0.0_3c75818de7e21616bc649618538edcb5ff197464.jar" />
+    </item>
+    <item
+        jar="/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.6.1_60f16a87e39bbbcfeb3486b49e761b39548e85b6.jar" />
+    </item>
+    <item
+        jar="/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_85bb1de8664dcd8f9434502e419dc8e101bfb30d.jar" />
+    </item>
+    <item
+        jar="/home/erwann/androidSdk/adt-bundle-linux-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_5976dc468ea3c140acf3362dfcb1641b99a4402d.jar" />
+    </item>
+    <item
+        jar="/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="6b7b6c3b819446c4046ba07976208874728c1460">
+        <dex dex="/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/pre-dexed/debug/CordovaLib-unspecified-debug_e8ec9e6e072a0d15898f49d0a8aeb0fc4f55c845.jar" />
+    </item>
+    <item
+        jar="/home/erwann/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/pre-dexed/debug/eventbus-3.0.0_fe48f9114b86022b9620e5b27c6d65bc6d3eaf48.jar" />
+    </item>
+    <item
+        jar="/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.6.1_bd50f2cca4c37b70f17986c43f42e074a6f93b5b.jar" />
+    </item>
+    <item
+        jar="/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.6.1_32c9e85f192f90656b7309f251c4b306d17961a9.jar" />
+    </item>
+    <item
+        jar="/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/tslocationmanager/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="309a2222762219cd5e2078c079c795adb63f7a9f">
+        <dex dex="/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-tslocationmanager_53a38e0fdd745ce3ae0f74e836bd9ad6b7b3e62f.jar" />
+    </item>
+
+</items>

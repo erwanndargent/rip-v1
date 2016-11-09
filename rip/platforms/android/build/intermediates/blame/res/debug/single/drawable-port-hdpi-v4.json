@@ -2,5 +2,9 @@
     {
         "merged": "/home/erwann/rip/rip/platforms/android/build/intermediates/res/merged/debug/drawable-port-hdpi-v4/screen.png",
         "source": "/home/erwann/rip/rip/platforms/android/res/drawable-port-hdpi/screen.png"
+    },
+    {
+        "merged": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/res/merged/debug/drawable-port-hdpi-v4/screen.png",
+        "source": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/res/drawable-port-hdpi/screen.png"
     }
 ]

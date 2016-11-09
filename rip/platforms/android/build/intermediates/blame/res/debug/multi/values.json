@@ -1,5 +1,401 @@
 [
     {
+        "outputFile": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 89,
+                    "endOffset": 190
+                },
+                "from": {
+                    "file": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 195,
+                    "endColumn": 79,
+                    "endOffset": 270
+                },
+                "from": {
+                    "file": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 275,
+                    "endColumn": 89,
+                    "endOffset": 360
+                },
+                "from": {
+                    "file": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 365,
+                    "endColumn": 89,
+                    "endOffset": 450
+                },
+                "from": {
+                    "file": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 455,
+                    "endColumn": 79,
+                    "endOffset": 530
+                },
+                "from": {
+                    "file": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 535,
+                    "endColumn": 80,
+                    "endOffset": 611
+                },
+                "from": {
+                    "file": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 616,
+                    "endColumn": 79,
+                    "endOffset": 691
+                },
+                "from": {
+                    "file": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 696,
+                    "endColumn": 79,
+                    "endOffset": 771
+                },
+                "from": {
+                    "file": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 2814,
+                    "endColumn": 66,
+                    "endOffset": 2876
+                },
+                "from": {
+                    "file": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 2881,
+                    "endColumn": 63,
+                    "endOffset": 2940
+                },
+                "from": {
+                    "file": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 2945,
+                    "endColumn": 50,
+                    "endOffset": 2991
+                },
+                "from": {
+                    "file": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 50,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 2996,
+                    "endColumn": 104,
+                    "endOffset": 3096
+                },
+                "from": {
+                    "file": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 3101,
+                    "endColumn": 180,
+                    "endOffset": 3277
+                },
+                "from": {
+                    "file": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 3282,
+                    "endColumn": 124,
+                    "endOffset": 3402
+                },
+                "from": {
+                    "file": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 3407,
+                    "endColumn": 106,
+                    "endOffset": 3509
+                },
+                "from": {
+                    "file": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 3514,
+                    "endColumn": 212,
+                    "endOffset": 3722
+                },
+                "from": {
+                    "file": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 3727,
+                    "endColumn": 214,
+                    "endOffset": 3937
+                },
+                "from": {
+                    "file": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 3942,
+                    "endColumn": 122,
+                    "endOffset": 4060
+                },
+                "from": {
+                    "file": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 4065,
+                    "endColumn": 102,
+                    "endOffset": 4163
+                },
+                "from": {
+                    "file": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 4168,
+                    "endColumn": 218,
+                    "endOffset": 4382
+                },
+                "from": {
+                    "file": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 4387,
+                    "endColumn": 218,
+                    "endOffset": 4601
+                },
+                "from": {
+                    "file": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 4606,
+                    "endColumn": 94,
+                    "endOffset": 4696
+                },
+                "from": {
+                    "file": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 4701,
+                    "endColumn": 104,
+                    "endOffset": 4801
+                },
+                "from": {
+                    "file": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 4806,
+                    "endColumn": 180,
+                    "endOffset": 4982
+                },
+                "from": {
+                    "file": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 4987,
+                    "endColumn": 124,
+                    "endOffset": 5107
+                },
+                "from": {
+                    "file": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 5112,
+                    "endColumn": 174,
+                    "endOffset": 5282
+                },
+                "from": {
+                    "file": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 5287,
+                    "endColumn": 104,
+                    "endOffset": 5387
+                },
+                "from": {
+                    "file": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 5392,
+                    "endColumn": 147,
+                    "endOffset": 5535
+                },
+                "from": {
+                    "file": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 5540,
+                    "endColumn": 62,
+                    "endOffset": 5598
+                },
+                "from": {
+                    "file": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 5603,
+                    "endColumn": 61,
+                    "endOffset": 5660
+                },
+                "from": {
+                    "file": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 5665,
+                    "endColumn": 78,
+                    "endOffset": 5739
+                },
+                "from": {
+                    "file": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 5744,
+                    "endColumn": 58,
+                    "endOffset": 5798
+                },
+                "from": {
+                    "file": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/res/values/strings.xml"
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "/home/erwann/rip/rip/platforms/android/build/intermediates/res/merged/debug/values/values.xml",
         "map": [
             {

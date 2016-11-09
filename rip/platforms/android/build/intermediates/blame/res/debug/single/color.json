@@ -4,7 +4,15 @@
         "source": "/home/erwann/rip/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/color/common_google_signin_btn_text_light.xml"
     },
     {
+        "merged": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
         "merged": "/home/erwann/rip/rip/platforms/android/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
         "source": "/home/erwann/rip/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/color/common_google_signin_btn_text_light.xml"
     }
 ]

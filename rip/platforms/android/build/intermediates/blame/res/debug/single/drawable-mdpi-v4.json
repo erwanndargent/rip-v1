@@ -4,20 +4,24 @@
         "source": "/home/erwann/rip/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_focused.9.png"
     },
     {
-        "merged": "/home/erwann/rip/rip/platforms/android/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal.9.png",
-        "source": "/home/erwann/rip/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal.9.png"
+        "merged": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png"
     },
     {
-        "merged": "/home/erwann/rip/rip/platforms/android/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_dark_disabled.9.png",
-        "source": "/home/erwann/rip/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_disabled.9.png"
+        "merged": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_light_focused.9.png",
+        "source": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/drawable-mdpi-v4/common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_disabled.9.png"
     },
     {
         "merged": "/home/erwann/rip/rip/platforms/android/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_dark_focused.9.png",
         "source": "/home/erwann/rip/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_focused.9.png"
-    },
-    {
-        "merged": "/home/erwann/rip/rip/platforms/android/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_light_pressed.9.png",
-        "source": "/home/erwann/rip/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_pressed.9.png"
     },
     {
         "merged": "/home/erwann/rip/rip/platforms/android/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_light_focused.9.png",
@@ -32,10 +36,6 @@
         "source": "/home/erwann/rip/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/drawable-mdpi-v4/common_google_signin_btn_text_light_focused.9.png"
     },
     {
-        "merged": "/home/erwann/rip/rip/platforms/android/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_light_disabled.9.png",
-        "source": "/home/erwann/rip/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/drawable-mdpi-v4/common_google_signin_btn_text_light_disabled.9.png"
-    },
-    {
         "merged": "/home/erwann/rip/rip/platforms/android/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_full_open_on_phone.png",
         "source": "/home/erwann/rip/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/drawable-mdpi-v4/common_full_open_on_phone.png"
     },
@@ -48,31 +48,107 @@
         "source": "/home/erwann/rip/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png"
     },
     {
-        "merged": "/home/erwann/rip/rip/platforms/android/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_light_normal.9.png",
-        "source": "/home/erwann/rip/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal.9.png"
-    },
-    {
         "merged": "/home/erwann/rip/rip/platforms/android/build/intermediates/res/merged/debug/drawable-mdpi-v4/icon.png",
         "source": "/home/erwann/rip/rip/platforms/android/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/res/merged/debug/drawable-mdpi-v4/icon.png",
+        "source": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/res/drawable-mdpi/icon.png"
     },
     {
         "merged": "/home/erwann/rip/rip/platforms/android/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_light_disabled.9.png",
         "source": "/home/erwann/rip/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_disabled.9.png"
     },
     {
-        "merged": "/home/erwann/rip/rip/platforms/android/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_ic_googleplayservices.png",
-        "source": "/home/erwann/rip/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/drawable-mdpi-v4/common_ic_googleplayservices.png"
+        "merged": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_light_focused.9.png",
+        "source": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_focused.9.png"
     },
     {
         "merged": "/home/erwann/rip/rip/platforms/android/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_dark_pressed.9.png",
         "source": "/home/erwann/rip/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_pressed.9.png"
     },
     {
+        "merged": "/home/erwann/rip/rip/platforms/android/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal.9.png",
+        "source": "/home/erwann/rip/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_ic_googleplayservices.png",
+        "source": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/drawable-mdpi-v4/common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_light_normal.9.png",
+        "source": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/home/erwann/rip/rip/platforms/android/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "/home/erwann/rip/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_full_open_on_phone.png",
+        "source": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/drawable-mdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/home/erwann/rip/rip/platforms/android/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "/home/erwann/rip/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/erwann/rip/rip/platforms/android/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "/home/erwann/rip/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_dark_focused.9.png",
+        "source": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_light_pressed.9.png",
+        "source": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/drawable-mdpi-v4/common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal.9.png",
+        "source": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/home/erwann/rip/rip/platforms/android/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_light_disabled.9.png",
+        "source": "/home/erwann/rip/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/drawable-mdpi-v4/common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/erwann/rip/rip/platforms/android/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_light_normal.9.png",
+        "source": "/home/erwann/rip/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_light_disabled.9.png",
+        "source": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/drawable-mdpi-v4/common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/erwann/rip/rip/platforms/android/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_ic_googleplayservices.png",
+        "source": "/home/erwann/rip/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/drawable-mdpi-v4/common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal.9.png",
+        "source": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
         "merged": "/home/erwann/rip/rip/platforms/android/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal.9.png",
         "source": "/home/erwann/rip/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal.9.png"
     },
     {
-        "merged": "/home/erwann/rip/rip/platforms/android/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal.9.png",
-        "source": "/home/erwann/rip/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal.9.png"
+        "merged": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "/home/erwann/RIPGIT/rip-v1.git/trunk/rip/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_focused.9.png"
     }
 ]
