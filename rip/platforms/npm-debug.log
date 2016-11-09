@@ -1,0 +1,160 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/nodejs',
+1 verbose cli   '/usr/bin/npm',
+1 verbose cli   '-g',
+1 verbose cli   'install',
+1 verbose cli   'ios-sim',
+1 verbose cli   'ios-deploy' ]
+2 info using npm@3.9.3
+3 info using node@v6.2.1
+4 silly loadCurrentTree Starting
+5 silly install loadCurrentTree
+6 silly install readGlobalPackageData
+7 silly fetchPackageMetaData ios-sim
+8 silly fetchPackageMetaData ios-deploy
+9 silly fetchNamedPackageData ios-sim
+10 silly mapToRegistry name ios-sim
+11 silly mapToRegistry using default registry
+12 silly mapToRegistry registry http://registry.npmjs.org/
+13 silly mapToRegistry data Result {
+13 silly mapToRegistry   raw: 'ios-sim',
+13 silly mapToRegistry   scope: null,
+13 silly mapToRegistry   name: 'ios-sim',
+13 silly mapToRegistry   rawSpec: '',
+13 silly mapToRegistry   spec: 'latest',
+13 silly mapToRegistry   type: 'tag' }
+14 silly mapToRegistry uri http://registry.npmjs.org/ios-sim
+15 silly fetchNamedPackageData ios-deploy
+16 silly mapToRegistry name ios-deploy
+17 silly mapToRegistry using default registry
+18 silly mapToRegistry registry http://registry.npmjs.org/
+19 silly mapToRegistry data Result {
+19 silly mapToRegistry   raw: 'ios-deploy',
+19 silly mapToRegistry   scope: null,
+19 silly mapToRegistry   name: 'ios-deploy',
+19 silly mapToRegistry   rawSpec: '',
+19 silly mapToRegistry   spec: 'latest',
+19 silly mapToRegistry   type: 'tag' }
+20 silly mapToRegistry uri http://registry.npmjs.org/ios-deploy
+21 verbose request uri http://registry.npmjs.org/ios-sim
+22 verbose request no auth needed
+23 info attempt registry request try #1 at 11:09:33
+24 verbose request id 76f7c48f89a9b2f9
+25 http request GET http://registry.npmjs.org/ios-sim
+26 verbose request uri http://registry.npmjs.org/ios-deploy
+27 verbose request no auth needed
+28 info attempt registry request try #1 at 11:09:33
+29 http request GET http://registry.npmjs.org/ios-deploy
+30 http 200 http://registry.npmjs.org/ios-deploy
+31 verbose headers { server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+31 verbose headers   etag: '"SW3JR55VBSNFBD4VQIGNZ4EM"',
+31 verbose headers   'content-type': 'application/json',
+31 verbose headers   'content-encoding': 'gzip',
+31 verbose headers   'cache-control': 'max-age=300',
+31 verbose headers   'content-length': '7182',
+31 verbose headers   'accept-ranges': 'bytes',
+31 verbose headers   date: 'Fri, 14 Oct 2016 09:09:32 GMT',
+31 verbose headers   via: '1.1 varnish',
+31 verbose headers   age: '0',
+31 verbose headers   connection: 'keep-alive',
+31 verbose headers   'x-served-by': 'cache-cdg8729-CDG',
+31 verbose headers   'x-cache': 'HIT',
+31 verbose headers   'x-cache-hits': '1',
+31 verbose headers   'x-timer': 'S1476436171.737144,VS0,VE427',
+31 verbose headers   vary: 'Accept-Encoding' }
+32 silly get cb [ 200,
+32 silly get   { server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+32 silly get     etag: '"SW3JR55VBSNFBD4VQIGNZ4EM"',
+32 silly get     'content-type': 'application/json',
+32 silly get     'content-encoding': 'gzip',
+32 silly get     'cache-control': 'max-age=300',
+32 silly get     'content-length': '7182',
+32 silly get     'accept-ranges': 'bytes',
+32 silly get     date: 'Fri, 14 Oct 2016 09:09:32 GMT',
+32 silly get     via: '1.1 varnish',
+32 silly get     age: '0',
+32 silly get     connection: 'keep-alive',
+32 silly get     'x-served-by': 'cache-cdg8729-CDG',
+32 silly get     'x-cache': 'HIT',
+32 silly get     'x-cache-hits': '1',
+32 silly get     'x-timer': 'S1476436171.737144,VS0,VE427',
+32 silly get     vary: 'Accept-Encoding' } ]
+33 verbose get saving ios-deploy to /home/erwann/.npm/registry.npmjs.org/ios-deploy/.cache.json
+34 verbose correctMkdir /home/erwann/.npm correctMkdir not in flight; initializing
+35 http 200 http://registry.npmjs.org/ios-sim
+36 verbose headers { server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+36 verbose headers   etag: '"40T4Q8K92RYWIMZ5K5NVSZV3A"',
+36 verbose headers   'content-type': 'application/json',
+36 verbose headers   'content-encoding': 'gzip',
+36 verbose headers   'cache-control': 'max-age=300',
+36 verbose headers   'content-length': '5393',
+36 verbose headers   'accept-ranges': 'bytes',
+36 verbose headers   date: 'Fri, 14 Oct 2016 09:09:32 GMT',
+36 verbose headers   via: '1.1 varnish',
+36 verbose headers   age: '0',
+36 verbose headers   connection: 'keep-alive',
+36 verbose headers   'x-served-by': 'cache-cdg8729-CDG',
+36 verbose headers   'x-cache': 'HIT',
+36 verbose headers   'x-cache-hits': '1',
+36 verbose headers   'x-timer': 'S1476436171.736751,VS0,VE737',
+36 verbose headers   vary: 'Accept-Encoding' }
+37 silly get cb [ 200,
+37 silly get   { server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+37 silly get     etag: '"40T4Q8K92RYWIMZ5K5NVSZV3A"',
+37 silly get     'content-type': 'application/json',
+37 silly get     'content-encoding': 'gzip',
+37 silly get     'cache-control': 'max-age=300',
+37 silly get     'content-length': '5393',
+37 silly get     'accept-ranges': 'bytes',
+37 silly get     date: 'Fri, 14 Oct 2016 09:09:32 GMT',
+37 silly get     via: '1.1 varnish',
+37 silly get     age: '0',
+37 silly get     connection: 'keep-alive',
+37 silly get     'x-served-by': 'cache-cdg8729-CDG',
+37 silly get     'x-cache': 'HIT',
+37 silly get     'x-cache-hits': '1',
+37 silly get     'x-timer': 'S1476436171.736751,VS0,VE737',
+37 silly get     vary: 'Accept-Encoding' } ]
+38 verbose get saving ios-sim to /home/erwann/.npm/registry.npmjs.org/ios-sim/.cache.json
+39 verbose correctMkdir /home/erwann/.npm correctMkdir not in flight; initializing
+40 silly install normalizeTree
+41 silly loadCurrentTree Finishing
+42 silly loadIdealTree Starting
+43 silly install loadIdealTree
+44 silly cloneCurrentTree Starting
+45 silly install cloneCurrentTreeToIdealTree
+46 silly cloneCurrentTree Finishing
+47 silly loadShrinkwrap Starting
+48 silly install loadShrinkwrap
+49 silly loadShrinkwrap Finishing
+50 silly loadAllDepsIntoIdealTree Starting
+51 silly install loadAllDepsIntoIdealTree
+52 silly rollbackFailedOptional Starting
+53 silly rollbackFailedOptional Finishing
+54 silly runTopLevelLifecycles Starting
+55 silly runTopLevelLifecycles Finishing
+56 silly install printInstalled
+57 verbose stack Error: Unsupported platform for ios-deploy@1.9.0: wanted {"name":"ios-deploy","version":"1.9.0","os":["darwin"],"description":"launch iOS apps iOS devices from the command line (Xcode 7)","main":"ios-deploy","scripts":{"preinstall":"./src/scripts/check_reqs.js && xcodebuild","test":"npm run pycompile && npm run jshint && xcodebuild -target ios-deploy-lib && xcodebuild test -scheme ios-deploy-tests","jshint":"node node_modules/jshint/bin/jshint src/scripts/*.js","pycompile":"python -m py_compile src/scripts/*.py"},"bin":{"ios-deploy":"./build/Release/ios-deploy"},"repository":{"type":"git","url":"git+https://github.com/phonegap/ios-deploy.git"},"devDependencies":{"jshint":"2.5.8"},"keywords":["ios-deploy","deploy to iOS device"],"bugs":{"url":"https://github.com/phonegap/ios-deploy/issues"},"author":{"name":"Greg Hughes"},"license":"GPLv3","gitHead":"4346b331b703db43aeb3f9281c509042a551f2cc","homepage":"https://github.com/phonegap/ios-deploy#readme","_id":"ios-deploy@1.9.0","_shasum":"9f065b9dd78143df51c8a740dac974615b950984","_from":"ios-deploy","_npmVersion":"3.10.3","_nodeVersion":"6.4.0","_npmUser":{"name":"shazron","email":"shazron@gmail.com"},"dist":{"shasum":"9f065b9dd78143df51c8a740dac974615b950984","tarball":"https://registry.npmjs.org/ios-deploy/-/ios-deploy-1.9.0.tgz"},"maintainers":[{"name":"shazron","email":"shazron@gmail.com"},{"name":"purplecabbage","email":"purplecabbage@gmail.com"},{"name":"stevegill","email":"stevengill97@gmail.com"}],"_npmOperationalInternal":{"host":"packages-16-east.internal.npmjs.com","tmp":"tmp/ios-deploy-1.9.0.tgz_1474020371227_0.9639754295349121"},"directories":{},"_resolved":"https://registry.npmjs.org/ios-deploy/-/ios-deploy-1.9.0.tgz","_requested":{"raw":"ios-deploy","scope":null,"name":"ios-deploy","rawSpec":"","spec":"latest","type":"tag"},"_spec":"ios-deploy","_where":"","_args":[[{"raw":"ios-deploy","scope":null,"name":"ios-deploy","rawSpec":"","spec":"latest","type":"tag"},""]],"readme":"ERROR: No README data found!"} (current: {"os":"linux","cpu":"x64"})
+57 verbose stack     at checkPlatform (/usr/lib/node_modules/npm/node_modules/npm-install-checks/index.js:45:14)
+57 verbose stack     at thenWarnEngineIssues (/usr/lib/node_modules/npm/lib/install/validate-args.js:41:5)
+57 verbose stack     at /usr/lib/node_modules/npm/node_modules/iferr/index.js:13:50
+57 verbose stack     at checkEngine (/usr/lib/node_modules/npm/node_modules/npm-install-checks/index.js:10:20)
+57 verbose stack     at module.exports.isInstallable (/usr/lib/node_modules/npm/lib/install/validate-args.js:38:3)
+57 verbose stack     at Array.<anonymous> (/usr/lib/node_modules/npm/node_modules/slide/lib/bind-actor.js:15:8)
+57 verbose stack     at LOOP (/usr/lib/node_modules/npm/node_modules/slide/lib/chain.js:15:14)
+57 verbose stack     at /usr/lib/node_modules/npm/node_modules/slide/lib/chain.js:18:7
+57 verbose stack     at checkSelf (/usr/lib/node_modules/npm/lib/install/validate-args.js:46:72)
+57 verbose stack     at Array.<anonymous> (/usr/lib/node_modules/npm/node_modules/slide/lib/bind-actor.js:15:8)
+58 verbose pkgid ios-deploy@1.9.0
+59 verbose cwd /home/erwann/rip/rip/platforms
+60 error Linux 3.16.0-4-amd64
+61 error argv "/usr/bin/nodejs" "/usr/bin/npm" "-g" "install" "ios-sim" "ios-deploy"
+62 error node v6.2.1
+63 error npm  v3.9.3
+64 error code EBADPLATFORM
+65 error notsup Not compatible with your operating system or architecture: ios-deploy@1.9.0
+66 error notsup Valid OS:    darwin
+66 error notsup Valid Arch:  any
+66 error notsup Actual OS:   linux
+66 error notsup Actual Arch: x64
+67 verbose exit [ 1, true ]
